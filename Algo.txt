@@ -12,3 +12,6 @@
     5d. Fountain drinks
     5e. Salads
 6. Start the checkout process
+    6a. Select pick-up or delivery
+    6b. Choose your payment
+    6c. Process your oder
