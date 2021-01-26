@@ -1,0 +1,14 @@
+1. Decide which business to order from
+2. Decide which type of pizza to order
+3. Choose your ingrediants
+    3a. Types of cheese
+    3b. Types of Meats
+    3c. Any finishing sauces or spices
+4. Add pizza to cart
+5. Choose any extras
+    5a. Buffalo wings
+    5b. Cheesy bread
+    5c. Garlic bread
+    5d. Fountain drinks
+    5e. Salads
+6. Start the checkout process
